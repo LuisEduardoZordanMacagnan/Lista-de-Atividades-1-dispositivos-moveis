@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplicativoContagemClicks</string>
+    <string name="contador_de_cliques">Contador de cliques</string>
+    <string name="clique_aqui">CLIQUE AQUI</string>
+    <string name="hello">Hello</string>
+    <string name="cliques_0">Cliques: 0</string>
+</resources>
